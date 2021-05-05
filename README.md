@@ -10,5 +10,5 @@ npm install
 
 Y para constuir el build, recuerden:
 ```
-npm run ubild
+npm run bild
 ```
